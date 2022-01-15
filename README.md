@@ -1,1 +1,1 @@
-# reset.scss
+# Custom Reset CSS base on normalize.css v8.0.1
