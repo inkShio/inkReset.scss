@@ -12,8 +12,8 @@ npm install --save ink-reset-scss
 
 ## Usage
 
-SCSS `@import`
+SCSS `@use`
 
 ``` scss
-@import 'path/to/node_modules/ink-reset-scss/reset.scss';
+@use '../../node_modules/ink-reset-scss/reset';
 ```
